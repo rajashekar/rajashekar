@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+- A Full Stack Software Engineer and Machine Learning Engineer interested in developing software applications. 
 - 📫 How to reach me: https://www.linkedin.com/in/rajashekar-chintalapati/
+
+### Projects 
+- https://github.com/rajashekar/WakeWordDetector - A open-source custom wake word detector, which will take audio as input and once the sequence of words are detected then prompt to the user.
+  <img src="https://github.com/rajashekar/WakeWordDetector/blob/main/images/wake_word_detect.png"/>
 
 <!--
 **rajashekar/rajashekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
