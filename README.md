@@ -4,7 +4,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/rajashekar-chintalapati/
 
 ### Projects 
-- https://github.com/rajashekar/WakeWordDetector - A open-source custom wake word detector, which will take audio as input and once the sequence of words are detected then prompt to the user. `#Machine Learning` `#Deep Learning` `#Audio`
+- [Wake Word Detector](https://github.com/rajashekar/WakeWordDetector) - A open-source custom wake word detector, which will take audio as input and once the sequence of words are detected then prompt to the user. `#Machine Learning` `#Deep Learning` `#Audio`
   <img src="https://github.com/rajashekar/WakeWordDetector/blob/main/images/wake_word_detect.png"/>
 
 ### Posts
