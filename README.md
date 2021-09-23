@@ -6,6 +6,10 @@
 ### Projects 
 - [Wake Word Detector](https://github.com/rajashekar/WakeWordDetector) - A open-source custom wake word detector, which will take audio as input and once the sequence of words are detected then prompt to the user. `#Machine Learning` `#Deep Learning` `#Audio`
   <img src="https://github.com/rajashekar/WakeWordDetector/blob/main/images/wake_word_detect.png"/>
+- [FlashCards](https://github.com/rajashekar/UdaciCards) - FlashCards Mobile App built using React Native. `#React Native` `#Mobile`
+- [Readable](https://github.com/rajashekar/readable-only-react) - Small Web app built using ReactJS to create posts with comments & votes similar to reddit app. `#ReactJS`
+- [My Reads](https://github.com/rajashekar/react-myreads) - Simple Webapp built using ReactJS to track books similar to goodreads. `#ReactJS`
+
 
 ### Posts
 - [Steps to create decentralized website](https://rajashekar.org/posts/steps-to-create-decentralized-website/)
