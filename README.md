@@ -6,9 +6,15 @@
 ### Projects 
 - [Wake Word Detector](https://github.com/rajashekar/WakeWordDetector) - A open-source custom wake word detector, which will take audio as input and once the sequence of words are detected then prompt to the user. `#Machine Learning` `#Deep Learning` `#Audio`
   <img src="https://github.com/rajashekar/WakeWordDetector/blob/main/images/wake_word_detect.png"/>
+- [Dog Classifier](https://github.com/rajashekar/dog_classifier) - Simple classifer to classify dog images `#Machine Learning`
+- [Chatroom](https://github.com/rajashekar/chatroom) - Chartroom built using of Spring boot application and Websocket concepts. `#java`
+- [Reviews API](https://github.com/rajashekar/reviews-api-v2) - Reviews API built using Spring boot application, JDBC with MySQL, Spring Data JPA, JDBC with Mongo DB, test cases using DataJpaTest and DataMongoTest. `#java`
 - [FlashCards](https://github.com/rajashekar/UdaciCards) - FlashCards Mobile App built using React Native. `#React Native` `#Mobile`
 - [Readable](https://github.com/rajashekar/readable-only-react) - Small Web app built using ReactJS to create posts with comments & votes similar to reddit app. [`#ReactJS`](reactjs.md)
 - [My Reads](https://github.com/rajashekar/react-myreads) - Simple Webapp built using ReactJS to track books similar to goodreads. [`#ReactJS`](reactjs.md)
+- [Movie Trailers](https://github.com/rajashekar/MovieTrailers) - Python app to display movie trailers
+- [Portfolio](https://github.com/rajashekar/Portfolio) - This project contains sample portfolio content with responsive design
+- [Todo app](https://github.com/rajashekar/todo-app) - A small to-do application to understand concepts of javascript
 
 
 ### Posts
