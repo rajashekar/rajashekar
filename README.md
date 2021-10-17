@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
 - A Full Stack Software Engineer and Machine Learning Engineer interested in developing software applications. 
-- 📫 How to reach me: https://www.linkedin.com/in/rajashekar-chintalapati/
+- 📫 How to reach me: [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajashekar-chintalapati/)
+
+---
 
 ### Projects 
 - [Wake Word Detector](https://github.com/rajashekar/WakeWordDetector) - A open-source custom wake word detector, which will take audio as input and once the sequence of words are detected then prompt to the user. `#Machine Learning` `#Deep Learning` `#Audio`
@@ -16,6 +18,7 @@
 - [Portfolio](https://github.com/rajashekar/Portfolio) - This project contains sample portfolio content with responsive design
 - [Todo app](https://github.com/rajashekar/todo-app) - A small to-do application to understand concepts of javascript
 
+---
 
 ### Posts
 - [Steps to create decentralized website](https://rajashekar.org/posts/steps-to-create-decentralized-website/)
