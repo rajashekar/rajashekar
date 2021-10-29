@@ -22,19 +22,17 @@ A Full Stack Software Engineer and Machine Learning Engineer interested in devel
 ---
 
 ### Posts
-- [Steps to create decentralized website](https://rajashekar.org/posts/steps-to-create-decentralized-website/)
-- [Anatomy of NodeJS and Apache](https://medium.com/swlh/anatomy-of-nodejs-and-apache-9ac173d4a0f8)
-- [Important shortcuts in Bash/Zsh](https://rcdfens.medium.com/important-shortcuts-in-bash-zsh-d131fa837ca)
-- [Bulk renaming in Bash/Zsh](https://rcdfens.medium.com/bulk-renaming-in-bash-zsh-603ec6258edf)
-- [Analysis on different search commands](https://rcdfens.medium.com/analysis-on-different-search-commands-1009cc4514e5)
-- [How to analyze JVM Heap dump](https://rcdfens.medium.com/how-to-analyze-jvm-heap-dump-6f0b46d34985)
-- [Analyzing issues caused by OOM Killer](https://rcdfens.medium.com/analyzing-issues-caused-by-oom-killer-2933a13e3e09)
-- [Analyzing OutOfMemoryError: unable to create new native thread](https://rcdfens.medium.com/analyzing-outofmemoryerror-unable-to-create-new-native-thread-7df40f1730ab)
-- [Oracle ATG — How to correct projects in unknown state in BCC/CA ?](https://rcdfens.medium.com/how-to-correct-projects-in-unknown-state-in-bcc-ca-f90f07509334)
-- [Vim 101](https://rajashekar.org/posts/vim/)
-- [Emacs 101](https://rajashekar.org/posts/emacs/)
-- [Regex 101](https://rajashekar.org/posts/regex/)
-- [Tmux 101](https://rajashekar.org/posts/tmux/)
+- [Regex Backreferenc](https://www.rajashekar.org/regex-backreference/)
+- [Steps to customize vim](https://www.rajashekar.org/customize-vim/)
+- [Steps to customize tmux](https://www.rajashekar.org/customize-tmux/)
+- [Steps to create decentralized website](https://www.rajashekar.org/decentralized-web/)
+- [How to analyze JVM Heap dump](https://www.rajashekar.org/anlalyze-thread-dumps/)
+- [Analysis on different search commands](https://www.rajashekar.org/analysis-search/)
+- [Analyzing issues caused by OOM Killer](https://www.rajashekar.org/oom-killer/)
+- [Resolving JVM unable to create new native thread](https://www.rajashekar.org/jvm-native-thread/)
+- [How to analyze JVM Heap dump](https://www.rajashekar.org/jvm-heap-dump/)
+- [Important shortcuts in Bash/Zsh](https://www.rajashekar.org/important-bash-zsh/)
+- [Bulk renaming in Bash/Zsh](https://www.rajashekar.org/bulk-renaming-in-bash-zsh/)
 
 <!--
 **rajashekar/rajashekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
