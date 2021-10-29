@@ -22,7 +22,7 @@ A Full Stack Software Engineer and Machine Learning Engineer interested in devel
 ---
 
 ### Posts
-- [Regex Backreferenc](https://www.rajashekar.org/regex-backreference/)
+- [Regex Backreference](https://www.rajashekar.org/regex-backreference/)
 - [Steps to customize vim](https://www.rajashekar.org/customize-vim/)
 - [Steps to customize tmux](https://www.rajashekar.org/customize-tmux/)
 - [Steps to create decentralized website](https://www.rajashekar.org/decentralized-web/)
