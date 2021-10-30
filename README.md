@@ -3,8 +3,7 @@
 A Full Stack Software Engineer and Machine Learning Engineer interested in developing software applications. 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajashekar-chintalapati/)
-
----
+[![My Website](https://img.shields.io/website?color=blue&label=My%20Website&logo=My%20Website&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Frajashekar.org)](https://rajashekar.org)
 
 ### Projects 
 - [Wake Word Detector](https://github.com/rajashekar/WakeWordDetector) - A open-source custom wake word detector, which will take audio as input and once the sequence of words are detected then prompt to the user. `#Machine Learning` `#Deep Learning` `#Audio`
