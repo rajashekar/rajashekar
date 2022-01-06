@@ -25,6 +25,17 @@ A Full Stack Software Engineer and Machine Learning Engineer interested in devel
 ---
 
 ### Posts
+- [Setup your own cloud storage using Nextcloud](https://www.rajashekar.org/setup-nextcloud/)
+- [Managing data in cloud with rclone](https://www.rajashekar.org/manage-cloud-data/)
+- [Setting up environment for development](https://www.rajashekar.org/set-up-dev-env/)
+- [Steps to configure Termux](https://www.rajashekar.org/configure-termux/)
+- [Choosing a password manager](https://www.rajashekar.org/password-manager/)
+- [Cryptography Basics](https://www.rajashekar.org/cryptography/)
+- [Steps to customize Visual Studio Code](https://www.rajashekar.org/customize-vscode/)
+- [Steps to customize emacs](https://www.rajashekar.org/customize-emacs/)
+- [Steps to customize Zsh](https://www.rajashekar.org/customize-zsh/)
+- [Setting up i3 window manager in Ubuntu](https://www.rajashekar.org/i3-ubuntu/)
+- [Terminal Emulators](https://www.rajashekar.org/terminal-emulators/)
 - [Steps to customize neovim](https://www.rajashekar.org/customize-neovim/)
 - [Regex Backreference](https://www.rajashekar.org/regex-backreference/)
 - [Steps to customize vim](https://www.rajashekar.org/customize-vim/)
