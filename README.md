@@ -10,11 +10,11 @@ A Full Stack Software Engineer and Machine Learning Engineer interested in devel
 
 
 ### Projects
-- [Password](https://github.com/themains/password) - A password generator using an encoder-decoder model trained on ~881M passwords
-- [Piedomains](https://github.com/themains/piedomains) - Classify the kind of content hosted by the domain using the domain name and text from the homepage.
-- [Pranaam](https://github.com/appeler/pranaam) - Predict religion based on name.
-- [Indicate](https://github.com/in-rolls/indicate) - Transilterate Indic languages to english.
-- [Naampy](https://github.com/appeler/naampy) - Predict gender based on name.
+- [Password](https://github.com/themains/password) - A password generator using an encoder-decoder model trained on ~881M passwords. `#Machine Learning` `#Deep Learning` `#NLP`
+- [Piedomains](https://github.com/themains/piedomains) - Classify the kind of content hosted by the domain using the domain name and text from the homepage. `#Machine Learning` `#Deep Learning` `#NLP`
+- [Pranaam](https://github.com/appeler/pranaam) - Predict religion based on name. `#Machine Learning` `#Deep Learning` `#NLP`
+- [Indicate](https://github.com/in-rolls/indicate) - Transilterate Indic languages to english. `#Machine Learning` `#Deep Learning` `#NLP`
+- [Naampy](https://github.com/appeler/naampy) - Predict gender based on name. `#Machine Learning` `#Deep Learning` `#NLP`
 - [Wake Word Detector](https://github.com/rajashekar/WakeWordDetector) - A open-source custom wake word detector, which will take audio as input and once the sequence of words are detected then prompt to the user. `#Machine Learning` `#Deep Learning` `#Audio`
   [![](https://github.com/rajashekar/WakeWordDetector/blob/main/images/wake_word_detect.png)](https://github.com/rajashekar/WakeWordDetector)
 
